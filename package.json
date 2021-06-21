@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinayakgajjewar/sw-crud-app/issues"
   },
-  "homepage": "https://github.com/vinayakgajjewar/sw-crud-app#readme"
+  "homepage": "https://github.com/vinayakgajjewar/sw-crud-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
